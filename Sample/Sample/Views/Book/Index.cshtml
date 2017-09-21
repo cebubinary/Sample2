@@ -1,0 +1,66 @@
+﻿@model Sample.Models.Info
+
+@{
+    ViewBag.Title = "View";
+}
+
+
+THIS IS JUST A SAMPLE for insertion of reservation!!!!! <text>&nbsp;</text>
+<br />
+Hit Refresh nth times and check the login
+<br/>
+Currently Login
+<br />
+
+@foreach(var x in Model.Account)
+{
+
+    @Html.DisplayFor(item => x.AccountId)
+    <text>&nbsp;</text>
+    @Html.DisplayFor(item => x.Name)
+    <br />
+
+}
+
+<br />
+<br />
+<br />
+
+@foreach (var x in Model.Book)
+{
+
+    @Html.DisplayFor(item => x.BookId)
+    <text > &nbsp;</text>
+    @Html.DisplayFor(item => x.Name)
+    <text > &nbsp;</text>
+
+    @Html.ActionLink("Reserve","Reserve", new {
+    AccountId =  Model.Account.FirstOrDefault().AccountId,
+    BookId = x.BookId,
+    Qty = 10})
+    <br />
+
+}
+
+<br />
+<br />
+<br />
+
+@Html.ActionLink("Delete All Reservation", "Delete")
+<br />
+
+@foreach (var x in Model.BookReservationInfo)
+{
+
+    @Html.DisplayFor(item => x.Id)
+    <text>&nbsp;</text>
+    @Html.DisplayFor(item => x.BorrowersName);
+    <text>&nbsp;</text>
+    @Html.DisplayFor(item => x.BookName);
+    <text>&nbsp;</text>
+    @Html.DisplayFor(item => x.Qty)
+    <br />
+}
+<br />
+<br />
+<br />
