@@ -27,3 +27,33 @@ c:\users\dgulane\documents\visual studio 2010\Projects\MvcApplication2\MvcApplic
 c:\users\dgulane\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Razor.xml
 c:\users\dgulane\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.dll
 c:\users\dgulane\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.pdb
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\MvcApplication2.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\MvcApplication2.pdb
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\Newtonsoft.Json.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Net.Http.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Net.Http.Formatting.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Net.Http.WebRequest.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Helpers.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Http.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Http.WebHost.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Mvc.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Razor.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.WebPages.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\Newtonsoft.Json.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Net.Http.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Net.Http.Formatting.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Net.Http.WebRequest.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Helpers.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Http.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Http.WebHost.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Mvc.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.Razor.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.WebPages.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+D:\temp\Sample\Sample2\Sample\MvcApplication2\obj\Debug\MvcApplication2.csprojResolveAssemblyReference.cache
+D:\temp\Sample\Sample2\Sample\MvcApplication2\obj\Debug\MvcApplication2.dll
+D:\temp\Sample\Sample2\Sample\MvcApplication2\obj\Debug\MvcApplication2.pdb
