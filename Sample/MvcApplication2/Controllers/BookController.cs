@@ -13,12 +13,14 @@ namespace Sample.Controllers
         // GET: Book
         public ActionResult Index()
         {
+            int id = 5;
             Info info = new Info();
             using (var x = new MyEntities())
             {
-                var allAccount = x.Accounts.OrderBy(xxx => Guid.NewGuid()).FirstOrDefault();
+                
+                var allAccount = x.Accounts.FirstOrDefault(a => a.AccountId == id);
                 var allBook = x.Books.ToList();
-                var allResrv = x.BookReservations.ToList();
+                var allResrv = x.BookReservations.Where(br => br.AccountId == id).ToList();
                 info.Account.Add(allAccount);
                 info.Book.AddRange(allBook);
                 info.BookReservation.AddRange(allResrv);
